@@ -59,7 +59,26 @@ Pull requests welcome. Please provide an explanation of the proposed changes. I 
 - **[3.1.3 – The Art of Doing Science and Engineering](3_Design_Analysis_and_Governance/3.1_Theory/3.1.3_Art_of_Doing_Science.md)** – *Judgment and Process Thinking* (Hamming)  
 
 ---
+## **Relationships**
 
+!(relations.png)
+
+### **Keyword Coverage**
+See [Keywords](keywords.md) for detailed definitions and examples of key concepts used throughout the readings.
+
+### **Reading-Keyword Matrix**
+See [Relationships](relationships.csv) for a detailed mapping of how each reading relates to key concepts.
+
+The relationships between readings and keywords range from:
+- **Direct** - Explicitly covers and develops the concept
+- **Indirect** - Touches on or applies the concept without direct discussion
+- **Not Covered** - Does not substantially engage with the concept
+
+This mapping helps identify:
+- Core texts for specific concepts
+- Complementary readings that approach topics differently
+
+---
 See the [Reading List](Readings.md) for the primary materials.
 
 See the [Supplementary Materials](Supplementary_Materials.md) for additional readings.
