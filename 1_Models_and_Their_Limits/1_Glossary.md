@@ -1,3 +1,4 @@
+
 # Section 1: Glossary - Models and Their Limits
 
 | **Term**               | **Definition**                                                                                     | **Source**                                               |
@@ -27,3 +28,6 @@
 | **Stable** | A system state that resists change and returns to equilibrium after disturbances. | Forrester – Urban Dynamics (1969) |
 | **Unstable** | A system state that amplifies small disturbances, leading to significant changes or collapse. | Holling – Panarchy (2002) |
 | **Robustness** | The ability of a system to maintain function and stability under external stresses without significant adaptation. | Gordon – Structures (1978) |
+
+| **Requisite Variety** | Systems must maintain **internal complexity** to absorb **external complexity**, ensuring **adaptability**. | **Ashby – An Introduction to Cybernetics (1956)** |
+| **Constraint Satisfaction** | Balancing **system constraints** to produce **viable solutions** without requiring **optimization**. | **Ashby – An Introduction to Cybernetics (1956)** |
