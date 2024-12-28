@@ -37,7 +37,6 @@ This work explores **leverage points**—specific interventions within a system 
 
 **Citation**:  
 Meadows, Donella H. (1999). *Leverage Points: Places to Intervene in a System*. Sustainability Institute.  
-[Access the PDF here](sandbox:/mnt/data/Meadows-2008.-Thinking-in-Systems.pdf)  
 
 **Exemplary Quote**:  
 > *"Leverage points frequently are not intuitive. Or if they are, we too often use them backward, systematically worsening whatever problems we are trying to solve."*  
