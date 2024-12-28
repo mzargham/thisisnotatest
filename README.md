@@ -61,7 +61,7 @@ Pull requests welcome. Please provide an explanation of the proposed changes. I 
 ---
 ## **Relationships**
 
-!(relations.png)
+![Relations between readings and keywords](relations.png)
 
 ### **Keyword Coverage**
 See [Keywords](keywords.md) for detailed definitions and examples of key concepts used throughout the readings.
