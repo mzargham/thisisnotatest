@@ -20,7 +20,12 @@ Pull requests welcome. Please provide an explanation of the proposed changes. I 
 
 ---
 
-## **1. Models and Their Limits**  
+## **1. Models and Their Limits**
+
+- **[Abstract](1_Models_and_Their_Limits/1_Abstract.md)** - Module overview and key themes
+- **[Glossary](1_Models_and_Their_Limits/1_Glossary.md)** - Key terms and concepts
+- **[Questions](1_Models_and_Their_Limits/1_Questions.md)** - Discussion questions and prompts
+
 ### **Theory (1.1)**  
 - **[1.1.0 – A Primer](1_Models_and_Their_Limits/1.1_Theory/1.1.0_A_Primer.md)** – *Thinking in Systems* (Meadows) *(Systems Thinking and Feedback Loops)*  
 - **[1.1.1 – Pace Layering](1_Models_and_Their_Limits/1.1_Theory/1.1.1_Pace_Layering.md)** – *The Clock of the Long Now* (Brand) *(Time Scales and Stability)*  
@@ -39,7 +44,12 @@ Pull requests welcome. Please provide an explanation of the proposed changes. I 
 
 ---
 
-## **2. Collective Action and Institutions**  
+## **2. Collective Action and Institutions**
+
+- **[Abstract](2_Collective_Action_and_Institutions/2_Abstract.md)** - Module overview and key themes
+- **[Glossary](2_Collective_Action_and_Institutions/2_Glossary.md)** - Key terms and concepts  
+- **[Questions](2_Collective_Action_and_Institutions/2_Questions.md)** - Discussion questions and prompts
+
 ### **Theory (2.1)**  
 - **[2.1.1 – Code 2.0](2_Collective_Action_and_Institutions/2.1_Theory/2.1.1_Code_2.0.md)** – *Code 2.0* (Lessig) *(Architecture as Regulation)*  
 - **[2.1.2 – Institutions](2_Collective_Action_and_Institutions/2.1_Theory/2.1.2_Institutions.md)** – *Institutions* (North) *(Formal Rules and Governance)*  
@@ -50,13 +60,34 @@ Pull requests welcome. Please provide an explanation of the proposed changes. I 
 - **[2.2.2 – Selected Works](2_Collective_Action_and_Institutions/2.2_Practice/2.2.2_Selected_Works.md)** – *Lucy Suchman* *(Technology and Social Practices)*  
 - **[2.2.3 – Sacred Ecology](2_Collective_Action_and_Institutions/2.2_Practice/2.2.3_Sacred_Ecology.md)** – *Sacred Ecology* (Berkes) *(Ecological Governance and Traditional Knowledge)*  
 
+### **Synthesis (2.3)**  
+- **[2.3.1 – Governing the Commons](2_Collective_Action_and_Institutions/2.3_Synthesis/2.3.1_Governing_the_Commons.md)** – *Governing the Commons* (Ostrom) *(Commons Governance and Polycentric Systems)*  
+- **[2.3.2 – Seeing Like a State](2_Collective_Action_and_Institutions/2.3_Synthesis/2.3.2_Seeing_Like_State.md)** – *Seeing Like a State* (Scott) *(Centralization and Local Knowledge)*  
+- **[2.3.3 – The Death and Life of Great American Cities](2_Collective_Action_and_Institutions/2.3_Synthesis/2.3.3_Death_and_Life.md)** – *The Death and Life of Great American Cities* (Jacobs) *(Urban Complexity and Order)*  
+
 ---
 
-## **3. Design, Analysis, and Governance**  
+## **3. Design, Analysis, and Governance**
+
+- **[Abstract](3_Design_Analysis_and_Governance/3_Abstract.md)** - Module overview and key themes
+- **[Glossary](3_Design_Analysis_and_Governance/3_Glossary.md)** - Key terms and concepts
+- **[Questions](3_Design_Analysis_and_Governance/3_Questions.md)** - Discussion questions and prompts
+
 ### **Theory (3.1)**  
 - **[3.1.1 – Finite and Infinite Games](3_Design_Analysis_and_Governance/3.1_Theory/3.1.1_Finite_and_Infinite_Games.md)** – *Finite and Infinite Games* (Carse) *(Philosophy of Design Goals)*  
 - **[3.1.2 – The Sciences of the Artificial](3_Design_Analysis_and_Governance/3.1_Theory/3.1.2_Sciences_of_the_Artificial.md)** – *The Sciences of the Artificial* (Simon) *(Design Heuristics and Adaptability)*  
 - **[3.1.3 – The Art of Doing Science and Engineering](3_Design_Analysis_and_Governance/3.1_Theory/3.1.3_Art_of_Doing_Science.md)** – *Judgment and Process Thinking* (Hamming)  
+
+### **Practice (3.2)**  
+- **[3.2.1 – The Utopia of Rules](3_Design_Analysis_and_Governance/3.2_Practice/3.2.1_Utopia_of_Rules.md)** – *The Utopia of Rules* (Graeber) *(Bureaucracy and Governance)*  
+- **[3.2.2 – Anarchist Cybernetics](3_Design_Analysis_and_Governance/3.2_Practice/3.2.2_Anarchist_Cybernetics.md)** – *Anarchist Cybernetics* (Swann) *(Decentralized Control Systems)*  
+- **[3.2.3 – All Our Relations](3_Design_Analysis_and_Governance/3.2_Practice/3.2.3_All_Our_Relations.md)** – *All Our Relations* (LaDuke) *(Indigenous Governance Models)*  
+
+### **Synthesis (3.3)**  
+- **[3.3.1 – Designing Freedom](3_Design_Analysis_and_Governance/3.3_Synthesis/3.3.1_Designing_Freedom.md)** – *Designing Freedom* (Beer) *(Cybernetics and Autonomy)*  
+- **[3.3.2 – Engineering a Safer World](3_Design_Analysis_and_Governance/3.3_Synthesis/3.3.2_Engineering_Safer_World.md)** – *Engineering a Safer World* (Leveson) *(Safety and Systems Thinking)*  
+- **[3.3.3 – We Have Never Been Modern](3_Design_Analysis_and_Governance/3.3_Synthesis/3.3.3_Never_Been_Modern.md)** – *We Have Never Been Modern* (Latour) *(Actor-Networks and Hybridity)*  
+
 
 ---
 ## **Relationships**
